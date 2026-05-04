@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2024-04-27",
+        "temperature": 12.5,
+        "description": "Облачно с прояснениями",
+        "precipitation": false
+    },
+    {
+        "date": "2024-04-26",
+        "temperature": 8.0,
+        "description": "Дождь и пасмурно",
+        "precipitation": true
+    }
+]
